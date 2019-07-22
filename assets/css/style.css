@@ -1,0 +1,13 @@
+body{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(248, 241, 241);
+    background-image: url("https://i.etsystatic.com/16438233/r/il/783ec0/1350848272/il_794xN.1350848272_82mi.jpg");
+}
+.question{
+    color: blue
+}
+.answers{
+    margin-bottom: 30px;
+    color: whitesmoke;
+}
